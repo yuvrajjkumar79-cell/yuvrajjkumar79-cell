@@ -1,5 +1,13 @@
 ## Hi there 👋
+### Hi there 👋, I'm Yuvraj! 
 
+- 🌱 I’m currently learning fundamental software development, Python, and web development.
+- ⚡ Fun fact: Building clean workflows step-by-step!
+
+### 🛠️ Tech Stack & Tools
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 <!--
 **yuvrajjkumar79-cell/yuvrajjkumar79-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

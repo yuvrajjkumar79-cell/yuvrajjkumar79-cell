@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Projects
 - **Restaurant Website Portfolio:** A fully responsive multi-page restaurant website template featuring home, menu, booking, and contact pages. 
-  - [Live Demo](https://yuvrajjkumar79-cell.github.io/my-portfolio/) | [Repository](https://github.qcom/yuvrajjkumar79-cell/my-portfolio)
+  - [Live Demo](https://yuvrajjkumar79-cell.github.io/my-portfolio/) | [Repository](https://github.com/yuvrajjkumar79-cell/my-portfolio)
 
 ## 📫 Connect with me
 - GitHub: [@yuvrajjkumar79-cell](https://github.com/yuvrajjkumar79-cell)
